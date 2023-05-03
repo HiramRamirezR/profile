@@ -70,6 +70,7 @@ h3 {
 .project {
   width: 100px;
   text-align: center;
+  margin: 10px;
 }
 li {
   list-style: none;
